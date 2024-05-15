@@ -9,7 +9,7 @@ In my career, I've always been passionate about two main things – technology a
 [![GitHub gdenne](https://img.shields.io/github/followers/gdenne?label=follow&style=social)](https://github.com/gdenne)
 </p>
 <p>Not only do I write professionally, but creatively too. My third novel, L.A. RAGE, is a tale of revenge and a fast-paced thriller set in the heart of the Hollywood entertainment industry.
-Amazon: https://lnkd.in/g-yjfeX8
-Apple Books: https://lnkd.in/gW9CiKqR
-Google Play: https://lnkd.in/g7vASAAh
+<p>Amazon: https://lnkd.in/g-yjfeX8</p>
+<p>Apple Books: https://lnkd.in/gW9CiKqR</p>
+<p>Google Play: https://lnkd.in/g7vASAAh</p>
 </p>
