@@ -10,6 +10,7 @@ In my career, I've always been passionate about two main things – technology a
 </p>
 <p>And...</p>
 <p>Not only do I write professionally, but creatively too. My third novel, L.A. RAGE, is a tale of revenge and a fast-paced thriller set in the heart of the Hollywood entertainment industry.</p>
+<img src="https://raw.githubusercontent.com/gdenne/gdenne/master/la_rage_banner.png" alt="L.A. RAGE, a tale of revenge and a fast-paced thriller set in the heart of the Hollywood entertainment industry.">
 <p><a href="https://www.amazon.com/L-RAGE-Gary-Denne-ebook/dp/B0CSXXN9PY?ref_=ast_author_mpb">Amazon</a>
 <p><a href="http://books.apple.com/us/book/id6476431291)">Apple Books</a>
 <p><a href="https://play.google.com/store/books/details?id=YtftEAAAQBAJ)">Google Play</a>
