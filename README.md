@@ -8,6 +8,7 @@ In my career, I've always been passionate about two main things – technology a
 [![Linkedin: garydenne](https://img.shields.io/badge/-garydenne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garydenne/)](https://www.linkedin.com/in/garydenne/)
 [![GitHub gdenne](https://img.shields.io/github/followers/gdenne?label=follow&style=social)](https://github.com/gdenne)
 </p>
+<p>And...</p>
 <p>Not only do I write professionally, but creatively too. My third novel, L.A. RAGE, is a tale of revenge and a fast-paced thriller set in the heart of the Hollywood entertainment industry.
 <p>Amazon: https://lnkd.in/g-yjfeX8</p>
 <p>Apple Books: https://lnkd.in/gW9CiKqR</p>
